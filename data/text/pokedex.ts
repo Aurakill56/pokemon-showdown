@@ -1,12 +1,12 @@
 export const PokedexText: {[id: IDEntry]: PokedexText} = {
-	bulbasaur: {
-		name: "Bulbasaur",
+	Cloroblade: {
+		name: "Cloroblade",
 	},
-	ivysaur: {
-		name: "Ivysaur",
+	Solarslash: {
+		name: "Solarslash",
 	},
-	venusaur: {
-		name: "Venusaur",
+	Verdantknight: {
+		name: "Verdantknight",
 	},
 	venusaurmega: {
 		name: "Venusaur-Mega",
@@ -14,14 +14,14 @@ export const PokedexText: {[id: IDEntry]: PokedexText} = {
 	venusaurgmax: {
 		name: "Venusaur-Gmax",
 	},
-	charmander: {
-		name: "Charmander",
+	Dragic: {
+		name: "Dragic",
 	},
-	charmeleon: {
-		name: "Charmeleon",
+	Dragicling: {
+		name: "Dragicling",
 	},
-	charizard: {
-		name: "Charizard",
+	Targonyx: {
+		name: "Targonyx",
 	},
 	charizardmegax: {
 		name: "Charizard-Mega-X",
@@ -32,14 +32,14 @@ export const PokedexText: {[id: IDEntry]: PokedexText} = {
 	charizardgmax: {
 		name: "Charizard-Gmax",
 	},
-	squirtle: {
-		name: "Squirtle",
+	Aquahorse: {
+		name: "Aquahorse",
 	},
-	wartortle: {
-		name: "Wartortle",
+	Unistream: {
+		name: "Unistream",
 	},
-	blastoise: {
-		name: "Blastoise",
+	Mysticorn: {
+		name: "Mysticorn",
 	},
 	blastoisemega: {
 		name: "Blastoise-Mega",
@@ -47,14 +47,14 @@ export const PokedexText: {[id: IDEntry]: PokedexText} = {
 	blastoisegmax: {
 		name: "Blastoise-Gmax",
 	},
-	caterpie: {
-		name: "Caterpie",
+	Gryphic: {
+		name: "Gryphic",
 	},
-	metapod: {
-		name: "Metapod",
+	Terragryph: {
+		name: "Terragryph",
 	},
-	butterfree: {
-		name: "Butterfree",
+	Crystrix: {
+		name:"Crystrix",
 	},
 	butterfreegmax: {
 		name: "Butterfree-Gmax",
